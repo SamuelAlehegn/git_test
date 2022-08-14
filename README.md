@@ -1,3 +1,3 @@
 # git_test
 
-Hello Odin!
+common Git commands used to manage projects
