@@ -1,0 +1,5 @@
+HELLO
+let’s commit all of the files that are in the staging 
+area and add a descriptive commit message. git commit -m 
+"Edit README.md and hello_world.txt". Then, type git status
+ once again, which will output “nothing to commit”.
